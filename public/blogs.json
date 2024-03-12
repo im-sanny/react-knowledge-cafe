@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "cover": "https://i.ibb.co/Gn1GGDk/4113116.jpg",
+        "cover": "https://imgur.com/a/XJXdjQL",
         "title": "Lorem Ipsum",
         "author": "John Doe",
-        "author_img": "https://example.com/author1.jpg",
+        "author_img": "https://imgur.com/KY8nLmq",
         "posted_date": "2022-03-15",
         "reading_time": 10,
         "hashtags": [
@@ -15,10 +15,10 @@
     },
     {
         "id": 2,
-        "cover": "https://example.com/cover2.jpg",
+        "cover": "https://imgur.com/CLVXjjA",
         "title": "Dolor Sit Amet",
         "author": "Jane Smith",
-        "author_img": "https://example.com/author2.jpg",
+        "author_img": "https://imgur.com/3dk1T50",
         "posted_date": "2022-03-16",
         "reading_time": 15,
         "hashtags": [
@@ -29,10 +29,10 @@
     },
     {
         "id": 3,
-        "cover": "https://example.com/cover3.jpg",
+        "cover": "https://imgur.com/G4zJavp",
         "title": "Consectetur Adipiscing Elit",
         "author": "Alice Johnson",
-        "author_img": "https://example.com/author3.jpg",
+        "author_img": "https://imgur.com/neCMXLs",
         "posted_date": "2022-03-17",
         "reading_time": 12,
         "hashtags": [
@@ -43,30 +43,16 @@
     },
     {
         "id": 4,
-        "cover": "https://example.com/cover4.jpg",
+        "cover": "https://imgur.com/a/sxVXtOr",
         "title": "Sed Do Eiusmod Tempor",
         "author": "Robert Brown",
-        "author_img": "https://example.com/author4.jpg",
+        "author_img": "https://imgur.com/7wTDVss",
         "posted_date": "2022-03-18",
         "reading_time": 8,
         "hashtags": [
             "business",
             "finance",
             "investing"
-        ]
-    },
-    {
-        "id": 5,
-        "cover": "https://example.com/cover5.jpg",
-        "title": "Ut Enim Ad Minim Veniam",
-        "author": "Emily Wilson",
-        "author_img": "https://example.com/author5.jpg",
-        "posted_date": "2022-03-19",
-        "reading_time": 20,
-        "hashtags": [
-            "art",
-            "creativity",
-            "design"
         ]
     }
 ]
